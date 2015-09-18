@@ -1,4 +1,4 @@
-LandPatternBreakouts
+Work in progress - LandPatternBreakouts
 ====================
 
 Land Pattern Breakout board 
